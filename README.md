@@ -1,2 +1,4 @@
 # Drawing-among-us-characters
-creating among us characters using only css
+author: Pardeep Singh.
+<hr>
+creating among us characters using  css.
